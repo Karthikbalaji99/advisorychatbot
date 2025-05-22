@@ -1,4 +1,4 @@
-## Preferhub Chatbot
+## Knowledge Chatbot
 This project is a Streamlit-based chatbot that answers user queries by utilizing content scraped from the Preferhub website. The system is built in two main components:
 
 scrape.py – A Python script that scrapes the Preferhub website, extracts the text content, and saves it in a text file.
